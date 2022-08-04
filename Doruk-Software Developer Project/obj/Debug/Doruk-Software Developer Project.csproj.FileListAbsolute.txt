@@ -1,0 +1,12 @@
+C:\Users\burak\source\repos\Doruk-Software Developer Project\Doruk-Software Developer Project\bin\Debug\Doruk-Software Developer Project.exe.config
+C:\Users\burak\source\repos\Doruk-Software Developer Project\Doruk-Software Developer Project\bin\Debug\Doruk-Software Developer Project.exe
+C:\Users\burak\source\repos\Doruk-Software Developer Project\Doruk-Software Developer Project\bin\Debug\Doruk-Software Developer Project.pdb
+C:\Users\burak\source\repos\Doruk-Software Developer Project\Doruk-Software Developer Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\burak\source\repos\Doruk-Software Developer Project\Doruk-Software Developer Project\obj\Debug\Doruk-Software Developer Project.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Doruk-Software Developer Project\Doruk-Software Developer Project\obj\Debug\Doruk_Software_Developer_Project.Project.resources
+C:\Users\burak\source\repos\Doruk-Software Developer Project\Doruk-Software Developer Project\obj\Debug\Doruk_Software_Developer_Project.Properties.Resources.resources
+C:\Users\burak\source\repos\Doruk-Software Developer Project\Doruk-Software Developer Project\obj\Debug\Doruk-Software Developer Project.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\Doruk-Software Developer Project\Doruk-Software Developer Project\obj\Debug\Doruk-Software Developer Project.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Doruk-Software Developer Project\Doruk-Software Developer Project\obj\Debug\Doruk-Software Developer Project.csproj.CopyComplete
+C:\Users\burak\source\repos\Doruk-Software Developer Project\Doruk-Software Developer Project\obj\Debug\Doruk-Software Developer Project.exe
+C:\Users\burak\source\repos\Doruk-Software Developer Project\Doruk-Software Developer Project\obj\Debug\Doruk-Software Developer Project.pdb
